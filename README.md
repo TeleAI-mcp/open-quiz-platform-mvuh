@@ -1,2 +1,3 @@
-# open-quiz-platform-mvuh
-A quiz and trivia platform for modern development workflows
+# Open Quiz Platform Mvuh
+
+A quiz and trivia platform for modern development workflows.
